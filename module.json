@@ -1,9 +1,9 @@
 {
-    "name": "FramerLoremIpsum",
-    "description": "Programmatically add Lorem Ipsum dummy text to your prototypes",
-    "author": "Andrew Liebchen <andrewliebchen@gmail.com>",
+  "name": "FramerLoremIpsum",
+  "description": "Programmatically add Lorem Ipsum dummy text to your prototypes",
+  "author": "Andrew Liebchen <andrewliebchen@gmail.com>",
 
-    "require": "LoremIpsum = require 'LoremIpsum'",
-    "install": "LoremIpsum.coffee",
-    "example": "example.coffee",
+  "require": "LoremIpsum = require 'LoremIpsum'",
+  "install": "LoremIpsum.coffee",
+  "example": "example.coffee",
 }
