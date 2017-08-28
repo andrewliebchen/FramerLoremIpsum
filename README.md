@@ -1,9 +1,8 @@
-# Lorem Ipsum generator for FramerJS
+# Framer Lorem Ipsum: a Lorem Ipsum generator for FramerJS
 
 Programmatically add Lorem Ipsum dummy text to your prototypes.
 
 ## Install
-Install via Framer Modules:
 <a href='https://open.framermodules.com/LoremIpsum'>
     <img
       alt='Install with Framer Modules'
