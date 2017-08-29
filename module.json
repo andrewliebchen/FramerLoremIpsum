@@ -5,5 +5,5 @@
 
   "require": "LoremIpsum = require 'LoremIpsum'",
   "install": "LoremIpsum.coffee",
-  "example": "example.coffee",
+  "example": "example.coffee"
 }
